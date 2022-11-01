@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99ebdfa5982db5f44b180f02cb779049, type: 3}
+  m_Name: FishConfig
+  m_EditorClassIdentifier: 
+  _fish:
+  - _name: Red Scale
+    _toolTip: Common Dawn Fish
+    _chance: 6
+    _time: 0
+    _sprite: {fileID: 6406061711972274550, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Green Fatfin
+    _toolTip: Common Day Fish
+    _chance: 6
+    _time: 1
+    _sprite: {fileID: -1181076974519126152, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Pink Wavetail
+    _toolTip: Common Dusk Fish
+    _chance: 6
+    _time: 2
+    _sprite: {fileID: 36384598983602322, guid: fd08f4301ec62584c86f2cffed86acbd, type: 3}
+  - _name: Blue Scale
+    _toolTip: Common Night Fish
+    _chance: 6
+    _time: 3
+    _sprite: {fileID: -9171614748212313213, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Red Fatfin
+    _toolTip: Common Dawn Fish
+    _chance: 6
+    _time: 0
+    _sprite: {fileID: 900668292290427548, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Blue Wildsplash
+    _toolTip: Common Day Fish
+    _chance: 6
+    _time: 1
+    _sprite: {fileID: -8276162684013312236, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Blue Fatfin
+    _toolTip: Common Dusk Fish
+    _chance: 6
+    _time: 2
+    _sprite: {fileID: 7704282712893456000, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Pink Wildsplash
+    _toolTip: Common Night Fish
+    _chance: 6
+    _time: 3
+    _sprite: {fileID: 4953700421485217503, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Orange Wildsplash
+    _toolTip: Common Dawn Fish
+    _chance: 6
+    _time: 0
+    _sprite: {fileID: 7569882410949808752, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Orange Wavetail
+    _toolTip: Common Day Fish
+    _chance: 6
+    _time: 1
+    _sprite: {fileID: -4465394044095388255, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Purple Scale
+    _toolTip: Common Dusk Fish
+    _chance: 6
+    _time: 2
+    _sprite: {fileID: -6879157460212273855, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Blue Wavetail
+    _toolTip: Common Night Fish
+    _chance: 6
+    _time: 3
+    _sprite: {fileID: 4482993751660838607, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Dawn Crab
+    _toolTip: Rare Dawn Fish
+    _chance: 1
+    _time: 0
+    _sprite: {fileID: -8217542319786499577, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Day Urchin
+    _toolTip: Rare Day Fish
+    _chance: 1
+    _time: 1
+    _sprite: {fileID: -3878289797822314810, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Dusk Jelly
+    _toolTip: Rare Dusk Fish
+    _chance: 1
+    _time: 2
+    _sprite: {fileID: 9156854346723684101, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}
+  - _name: Night Terror
+    _toolTip: Rare Night Fish
+    _chance: 1
+    _time: 3
+    _sprite: {fileID: -1915776564401465818, guid: fd08f4301ec62584c86f2cffed86acbd,
+      type: 3}

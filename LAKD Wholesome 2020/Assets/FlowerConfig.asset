@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f217efeaf3a43504a90efc0212c55836, type: 3}
+  m_Name: FlowerConfig
+  m_EditorClassIdentifier: 
+  _timeToGrow: 10000
+  _plot: {fileID: 21300000, guid: a2d926c97debb9c439a8180f34dd77ba, type: 3}
+  _name: Unknown Flower
+  _01: {fileID: -4557169577453407360, guid: 3140fbe9887d0f64db3e15f6e1321999, type: 3}
+  _02: {fileID: 3060120105427176280, guid: 3140fbe9887d0f64db3e15f6e1321999, type: 3}
+  _03: {fileID: 2078506102120698211, guid: 3140fbe9887d0f64db3e15f6e1321999, type: 3}
+  _04: {fileID: 6195739495172833298, guid: 3140fbe9887d0f64db3e15f6e1321999, type: 3}
+  _flowers:
+  - _name: Dawn Bloom
+    _toolTip: Plant at Dawn
+    _05: {fileID: -8599076897651075110, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -4093223871583320585, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -2869876930082175718, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -8536723021235441869, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Day Petal
+    _toolTip: Plant at Day
+    _05: {fileID: 6532252411737238267, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: 8482965974700437304, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -4931130086721298979, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -1904291271224594850, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Dusk Vine
+    _toolTip: Plant at Dusk
+    _05: {fileID: 4632598083906848925, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -8146139400261635304, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: 8589799071741210380, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -5462931330428014711, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Night Blossom
+    _toolTip: Plant at Night
+    _05: {fileID: -1380961279234335697, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -2678613074307767275, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: 502973817801418708, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -7803453577300431147, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Bright Lights
+    _toolTip: Water twice at Dawn
+    _05: {fileID: -3049244359801467698, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -4777557766298960706, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -1996972312581905027, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -1292360877444852053, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Day Glow
+    _toolTip: Water twice at Day
+    _05: {fileID: -1905306971469373461, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -3165422413300546780, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -5314387630066398513, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -4000302481962230738, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Dusk Climber
+    _toolTip: Water twice at Dusk
+    _05: {fileID: 1875809120407446195, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: 2821450237754220339, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -4038731120922346050, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: 5588798418343716680, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Night Lupus
+    _toolTip: Water twice at Night
+    _05: {fileID: -3155580625666305983, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -3017589764037538278, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: 7738523677936177406, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -6764643010536285260, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Morning Glow
+    _toolTip: Water three times at Dawn
+    _05: {fileID: 388093049040395086, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -4715043129823629833, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -9031828977884749196, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -7739399690219588403, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Sunflower
+    _toolTip: Water three times at Day
+    _05: {fileID: 5200552784765383606, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: 7644649386185113189, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -2190850785146655075, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: 7389352811964767460, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Red Sunset
+    _toolTip: Water three times at Dusk
+    _05: {fileID: -2757444085851235607, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -8684339101649884487, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: 2262075497595049503, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -3732793318766742157, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Moon Petal
+    _toolTip: Water three times at Night
+    _05: {fileID: 1236421647502666424, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: 1513589972626707054, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -5945791764882642693, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: 8993680631451306857, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Daybreak Thistle
+    _toolTip: Water at Night and Dawn
+    _05: {fileID: 6861027921994428420, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: 8119333878989117227, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -671138716687304589, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: 2516103473478829077, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Noon Leaf
+    _toolTip: Water at Dawn and Day
+    _05: {fileID: -1919258233132508157, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: 8973077676457499086, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -1673126647758613645, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -3268943929105412283, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Day's End Pansy
+    _toolTip: Water at Day and Dusk
+    _05: {fileID: -5948900462338509839, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: -3149599567424175596, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -6453257921326273055, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: 3263247686079354958, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+  - _name: Fall Flower
+    _toolTip: Water at Dusk and Night
+    _05: {fileID: -4697998537724640817, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _06: {fileID: 5686671281305170980, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _07: {fileID: -4515547706760743693, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+    _08: {fileID: -7631984583350442837, guid: 30728922d00613a43a2a0e068d232288, type: 3}
+
